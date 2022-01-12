@@ -1,0 +1,19 @@
+#sketch_button{
+    float:right;
+}
+
+#timer{
+    float: right;
+    margin-right:50px;
+    font-size: 30px;
+}
+
+#score{
+    margin-left:50px;
+    font-size: 30px;
+
+}
+
+body{
+    background:linear-gradient(pink 0%,orange 100%);
+}
